@@ -1,7 +1,7 @@
 
 
 public  class binarySearch {
-
+    //this is the to Merge
 	static int  counter;
 	static int  counter_1;
 	
