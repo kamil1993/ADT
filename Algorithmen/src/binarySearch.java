@@ -12,7 +12,7 @@ public  class binarySearch {
 		//int [] bin = {0,1,2};
 		//System.out.println("the MAx is:\t"+max(a));
 		System.out.println("the first Binary:\t"+binary(bin,bin.length-1,0,1)+"\t the counter : "+counter);
-		System.out.println("the second Binary:\t"+binary_1(bin,bin.length-1,0,1)+"\t the counter : "+counter_1);
+		System.out.println("the second Binary:\t"+binary_1(bin,bin.length-1,0,14)+"\t the counter : "+counter_1);
 		
 				
 	}
